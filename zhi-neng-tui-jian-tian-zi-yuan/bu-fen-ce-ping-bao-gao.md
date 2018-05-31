@@ -8,5 +8,3 @@
 
 ![](../.gitbook/assets/001_03.png)
 
-
-

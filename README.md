@@ -1,25 +1,14 @@
-# Initial page
+---
+description: 新高考大数据智能应用平台，让你一下子就清楚自己的定位和学习方向
+---
 
-## Getting Super Powers
+# 寻鹿高考
 
-Becoming a super hero is a fairly straight forward process:
 
-```
-$ give me super-powers
-```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% hint style="success" %}
+## 寻鹿高考——做最有温度的新高考智能应用平台，让每一位高中生找到适合自己的好大学、好专业，未来有一个好发展！
 {% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the wo
-
-
-```
 
 
 
