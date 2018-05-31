@@ -3,7 +3,7 @@
 * [欢迎进入寻鹿高考使用手册](README.md)
 * [注册流程](zhu-ce-liu-cheng/README.md)
   * [登陆完善基本信息](zhu-ce-liu-cheng/deng-lu-wan-shan-ji-ben-xin-xi.md)
-* [智能推荐填自愿](zhi-neng-tui-jian-tian-zi-yuan/README.md)
+* [智能推荐填志愿](zhi-neng-tui-jian-tian-zi-yuan/README.md)
   * [测评试题](zhi-neng-tui-jian-tian-zi-yuan/ce-ping-shi-ti.md)
   * [部分测评报告](zhi-neng-tui-jian-tian-zi-yuan/bu-fen-ce-ping-bao-gao.md)
   * [智能推荐志愿示例](zhi-neng-tui-jian-tian-zi-yuan/zhi-neng-tui-jian-zhi-yuan-shi-li.md)
