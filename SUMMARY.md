@@ -1,6 +1,6 @@
 # Table of contents
 
-* [寻鹿高考](README.md)
+* [欢迎进入寻鹿高考使用手册](README.md)
 * [注册流程](zhu-ce-liu-cheng/README.md)
   * [登陆完善基本信息](zhu-ce-liu-cheng/deng-lu-wan-shan-ji-ben-xin-xi.md)
 * [智能推荐填自愿](zhi-neng-tui-jian-tian-zi-yuan/README.md)
