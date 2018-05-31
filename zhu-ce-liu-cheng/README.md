@@ -1,6 +1,6 @@
 # 注册流程
 
-### 1.进入官网[www.xunlugaokao.com](https://www.xunlugaokao.com/)
+### 1.进入官网 [www.xunlugaokao.com](https://www.xunlugaokao.com/)
 
 ### 2.进入注册页面
 
