@@ -12,7 +12,7 @@
 
 从筛选比较后的各个专业右侧，点击选择志愿即可将钟意的专业加入我的志愿
 
-![](.gitbook/assets/tim-jie-tu-20180530162543.png)
+![](.gitbook/assets/assets2fldiihpcrpao3whq1t2fldk8n6wx0nwq5bglbuc2fldk8pvseboujrm0xou2ftim-jie-tu-20180530162543.jpg)
 
 ### 
 

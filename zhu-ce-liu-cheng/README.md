@@ -8,7 +8,7 @@
 
 ### 3.输入手机号及密码设置
 
-![](../.gitbook/assets/tim-jie-tu-20180530113234.png)
+![](../.gitbook/assets/assets2fldiihpcrpao3whq1t2fldj2yavyf8d9vpj8qav2fldj5nqdfw3s54kmnxu2ftim-jie-tu-20180530113234.png)
 
 ### 4.获取短信验证码
 

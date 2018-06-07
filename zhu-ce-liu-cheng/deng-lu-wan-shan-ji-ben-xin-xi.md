@@ -16,9 +16,9 @@
 
     4.所属学科
 
-![](../.gitbook/assets/tim-jie-tu-20180530164510.png)
+![](../.gitbook/assets/01.jpg)
 
-![](../.gitbook/assets/tim-jie-tu-20180530164603.png)
+![](../.gitbook/assets/assets2fldiihpcrpao3whq1t2fldkdgwfcylh2utxqa42fldkdunhxr3gz318aomx2ftim-jie-tu-20180530164603.png)
 
 ### 3.确认提交
 

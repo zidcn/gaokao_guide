@@ -4,7 +4,7 @@
 
 #### 2、用户在使用过程中如果中途意外中断，继续测评时将恢复至上一次测评，无需重复测试。
 
-![](../.gitbook/assets/tim-jie-tu-20180530143504.png)
+![](../.gitbook/assets/assets2fldiihpcrpao3whq1t2fldjjmwbp2hidtiepecz2fldjkwmimcvtsks94sts2ftim-jie-tu-20180530143504.png)
 
 #### 
 

@@ -4,7 +4,7 @@
 
 #### 2、将感兴趣的学校加入对比后， 可以将感兴趣和适合你的大学专业进行对照比较
 
-![](../.gitbook/assets/tim-jie-tu-20180530151610.png)
+![](../.gitbook/assets/assets2fldiihpcrpao3whq1t2fldjtvwfyetobjh25uui2fldjty8xagmvqbxj70ys2ftim-jie-tu-20180530151610.jpg)
 
 #### 
 
