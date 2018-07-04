@@ -9,7 +9,7 @@
   * [智能推荐志愿示例](zhi-neng-tui-jian-tian-zi-yuan/zhi-neng-tui-jian-zhi-yuan-shi-li.md)
   * [大学介绍示例](zhi-neng-tui-jian-tian-zi-yuan/da-xue-jie-shao-shi-li.md)
   * [专业介绍示例](zhi-neng-tui-jian-tian-zi-yuan/zhuan-ye-jie-shao-shi-li.md)
-* [高考大数据](gao-kao-da-shu-ju/README.md)
+* [选志愿](gao-kao-da-shu-ju/README.md)
   * [搜大学](gao-kao-da-shu-ju/sou-da-xue.md)
   * [查专业](gao-kao-da-shu-ju/cha-zhuan-ye.md)
   * [专业介绍示例](gao-kao-da-shu-ju/zhuan-ye-jie-shao-shi-li.md)
