@@ -1,18 +1,6 @@
 # 选志愿
 
-#### 用户可以通过多个维度自助查询，并将感兴趣的专业志愿加入对比
+### 用户可以通过多个维度自助查询， 并将感兴趣的专业志愿加入目标
 
-### 1.老高考——基础查询
-
-1.按分数查询报考专业；  2.按专业类查询；  3.按院校查询；  4.按批次线查询
-
-### 2.新高考（上海）——高级查询
-
-1.按学科类别查询\(物理、化学、生物等）；  2.按就业数据查询（薪酬、就业地区、就业行业）
-
-![](../.gitbook/assets/assets2fldiihpcrpao3whq1t2fldkeocsfio0vvplss2fldkepqjsgsssh8rufc2ftim-jie-tu-20180530165018.jpg)
-
-3.按男女比例查询；  4.按专业对口度查询；  5.按学校满意度查询
-
-![](../.gitbook/assets/assets-2f-ldiihpc_r_pao3whq1t-2f-ldkghee1g1xyo_1wpo3-2f-ldkozem9kdexe2blsnk-2fnew-exam.jpg)
+![](../.gitbook/assets/18.png)
 

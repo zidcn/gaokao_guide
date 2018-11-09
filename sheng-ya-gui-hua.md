@@ -1,8 +1,8 @@
 # 生涯规划
 
-#### 生涯发展功能正在逐步开放中，目前上线：专业倾向测评及学习效能测评。用户可根据自身需要选择测评及查看分析报告
+#### 生涯规划功能块目前包含自我认知、学业规划、职业规划三大板块。具体测评为： 情绪调节测评 自尊评定测评 思维风格测评 创造性倾向测评 职业兴趣测评
 
-![](.gitbook/assets/assets2fldiihpcrpao3whq1t2fldk5xz9gxxe2pua5ud12fldk63w7qkai5hcce2pj2ftim-jie-tu-20180530161340.jpg)
+![](.gitbook/assets/23.png)
 
 #### 
 
